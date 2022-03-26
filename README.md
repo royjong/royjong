@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @royjong
-- 👀 I’m interested in mobile app development with React Native and Flutter
-- 🌱 I’m currently learning React Native, Fluttter
+- 👀 I’m interested in mobile app development & Restfull API design
+- 🌱 I'm a MERN stack developer 
 - 📫 You can rach me via E-mail roy.jong6@gmail.com 
 
 <!---
