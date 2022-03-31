@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @royjong
-- 👀 I’m interested in mobile app development & Restfull API design
-- 🌱 I'm a MERN stack developer 
-- 📫 You can rach me via E-mail roy.jong6@gmail.com 
+- 👋 I'm Roy and I'm interested in maken secure SaaS apps 
+- 👀 I stopped with college to focus mainly on building more experience as a fullstack developer 
+- 🌱 I'm currently focussing my time on the MERN stack, because I simply love ES6 and building things with Javascript 
+- 📫 Do you want contact? You can reach out to me at rjong1033@gmail.com 
 
 <!---
 royjong/royjong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
